@@ -10,7 +10,10 @@ Enhance your browsing experience with the Jimmifier. Is your browser experience 
   2. Go to chrome://extensions/ >> Developer Mode: on >> Load Unpacked
   3. Pick the extracted Jimmify-Youtube-main folder
   ```
-* firefox (untested)
+* firefox
+  ```sh
+   https://addons.mozilla.org/en-US/firefox/addon/youtube-jimmify/
+  ```
 
 #PoopLikeJimmy
 
