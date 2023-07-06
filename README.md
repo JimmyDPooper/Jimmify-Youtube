@@ -15,3 +15,5 @@ Enhance your browsing experience with the Jimmifier. Is your browser experience 
 #PoopLikeJimmy
 
 ![Alt text](https://cdn.discordapp.com/attachments/1078117017107832882/1114555465259565056/jimmydavisfamilyphoto.png?raw=true) 
+![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126471149639958528/1.jpg?raw=true)
+![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126471149933572137/2.jpg?raw=true) 
