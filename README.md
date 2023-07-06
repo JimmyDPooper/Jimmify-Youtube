@@ -18,3 +18,4 @@ Enhance your browsing experience with the Jimmifier. Is your browser experience 
 ![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126471149639958528/1.jpg?raw=true)
 ![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126471149933572137/2.jpg?raw=true) 
 ![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126471674737479690/3.jpg?raw=true) 
+![Alt text](https://cdn.discordapp.com/attachments/1074893906279403623/1126472981485461544/4.jpg?raw=true) 
