@@ -1,6 +1,6 @@
 # Youtube Jimmify
 
-Enhance your browsing experience with the Jimmifier. Is your browser experience poop? Are you having trouble finding engaging rupee videos? Fear no more. This extension adds the Jimmy Davis and his friends, to every thumbnail!
+Enhance your browsing experience with the Jimmifier. Is your browser experience poop? Are you having trouble finding engaging rupee videos? Fear no more. This extension adds Jimmy Davis and his friends, to every thumbnail!
 
 ### Works on:
 
