@@ -6,8 +6,6 @@ Enhance your browsing experience with the Jimmifier. Is your browser experience 
 
 * any chroumium browser
   ```sh
-   go to chrome://extensions/ and 
-   
   1. Download ZIP and extract it
   2. Go to chrome://extensions/ >> Developer Mode: on >> Load Unpacked
   3. Pick the extracted Jimmify-Youtube-main folder
